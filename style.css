@@ -59,7 +59,7 @@ body {
 }
 
 .hero p {
-    font-size: 1.3rem;
+    font-size: 2.5rem;
 }
 
 .hero p{
@@ -159,6 +159,7 @@ body {
 
 .ucapan p {
     color: #e9d6b2;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 2rem;
     margin-bottom: 1rem;
 }
@@ -190,7 +191,7 @@ body {
 .andriputri h4 {
     color: #e9d6b2;
     font-family: "Monotype Corsiva", cursive;
-    font-size: 5rem;
+    font-size: 3.5rem;
     font-weight: bold;
 }
 
@@ -466,6 +467,6 @@ footer li {
 /* mobile phone */
 @media (max-width: 576px) {
     html {
-        font-size: 65%;
+        font-size: 50%;
     }
 }
